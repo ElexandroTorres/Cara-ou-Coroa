@@ -31,6 +31,7 @@
         android:src="@drawable/moeda_cara"/>
 
     <ImageButton
+        android:id="@+id/ibVoltar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/botao_voltar"
