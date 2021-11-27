@@ -3,7 +3,7 @@
     <style name="Theme.CaraOuCoroa" parent="Theme.MaterialComponents.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">#65bc8d</item>
-        <item name="colorPrimaryVariant">#65bc1d</item>
+        <item name="colorPrimaryVariant">#65bc8d</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
