@@ -20,8 +20,7 @@ Um aplicativo em que será mostrado de maneira aleatória a face de uma moeda, p
 <h3> Telas do aplicativo em um celular Galaxy J1 Mini</h3>
 
 <p float="left">
-<img  alt="Imagem mostrando a tela inicial do aplicativo"  title="Demonstração aplicativo, tela inicial"  src="./github/telaPrincipal.png">
-<img  alt="Imagem mostrando a tela resultado do aplicativo"  title="Demonstração aplicativo, tela resultado"  src="./github/telaResultado.png">
+<img  alt="Imagem mostrando a tela inicial do aplicativo"  title="Demonstração aplicativo, tela inicial"  src="./github/telaPrincipal.png"> <img  alt="Imagem mostrando a tela resultado do aplicativo"  title="Demonstração aplicativo, tela resultado"  src="./github/telaResultado.png">
 </p>
 
 
